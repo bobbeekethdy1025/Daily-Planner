@@ -13,4 +13,8 @@ var task = document.querySelectorAll('textarea').value;
 //         localStorage.setItem('timeSlot-'+timeSlot, dataInSlot)
 // })
 
+var saved = document.getElementById('saveBtn')
 
+saved.addEventListener('click', function(){
+    alert('Saved!')
+})
