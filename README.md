@@ -11,6 +11,7 @@ Above this text you will find two links that will take you to the repository tha
 Within the repository, you will find an index.html, reset.css, style.css, and script.js. In these files, you will be able to see how the planner was created with the use of HTML, CSS, JS, and third party APIs.
 
 On the live website you will be shown a schedule which ranges from the hours of 9am through 5pm.
+The page will display different colors based on the current, past, or future time of day.
 On the allotted time slots, you will be about to type ,in text, your daily task for the hours. After you type your task in, you can save said task into local storage using the "save" button.
 Afterwards, if you wish to do so, you can refresh the page and see that your task will have remained on the page.
 The current day and date will be shown at the top of the page underneath the header.
